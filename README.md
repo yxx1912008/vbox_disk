@@ -1,7 +1,7 @@
 <!--
  * @Author: yuanxx
  * @Date: 2021-03-30 09:55:19
- * @LastEditTime: 2021-03-30 09:59:52
+ * @LastEditTime: 2021-03-30 10:08:27
  * @Description: 
 -->
 ### VBOX 磁盘挂载工具
@@ -18,13 +18,13 @@
 
 #### 使用截图
 
-<img src="1.jpg" style="width: 50%; height: 50%"  alt="软件图标" />
-<img src="2.jpg" style="width: 50%; height: 50%"  alt="启动界面" />
-<img src="3.jpg" style="width: 50%; height: 50%"  alt="加载硬盘列表" />
-<img src="4.jpg" style="width: 50%; height: 50%"  alt="选择存放路径" />
-<img src="5.jpg" style="width: 50%; height: 50%"  alt="选择存放路径" />
-<img src="6.jpg" style="width: 50%; height: 50%"  alt="选择磁盘名称" />
-<img src="7.jpg" style="width: 50%; height: 50%"  alt="操作结果" />
+<img src="https://raw.githubusercontent.com/yxx1912008/vbox_disk/main/img/1.jpg" style="width: 50%; height: 50%"  alt="软件图标" />
+<img src="https://raw.githubusercontent.com/yxx1912008/vbox_disk/main/img/2.jpg" style="width: 50%; height: 50%"  alt="启动界面" />
+<img src="https://raw.githubusercontent.com/yxx1912008/vbox_disk/main/img/3.jpg" style="width: 50%; height: 50%"  alt="加载硬盘列表" />
+<img src="https://raw.githubusercontent.com/yxx1912008/vbox_disk/main/img/4.jpg" style="width: 50%; height: 50%"  alt="选择存放路径" />
+<img src="https://raw.githubusercontent.com/yxx1912008/vbox_disk/main/img/5.jpg" style="width: 50%; height: 50%"  alt="选择存放路径" />
+<img src="https://raw.githubusercontent.com/yxx1912008/vbox_disk/main/img/6.jpg" style="width: 50%; height: 50%"  alt="选择磁盘名称" />
+<img src="https://raw.githubusercontent.com/yxx1912008/vbox_disk/main/img/7.jpg" style="width: 50%; height: 50%"  alt="操作结果" />
 
 #### 当前环境与依赖
 
@@ -52,13 +52,13 @@ autousb
 #### 使用教程
 
 0.使用文本编辑器修改config文件里的路径修改为当前安装的vboxmanager地址 
-<img src="config.jpg" style="width: 50%; height: 50%"  alt="软件图标" />
+<img src="https://raw.githubusercontent.com/yxx1912008/vbox_disk/main/img/config.jpg" style="width: 50%; height: 50%"  alt="软件图标" />
 
 1.以管理员身份运行
-<img src="0.jpg" style="width: 50%; height: 50%"  alt="软件图标" />
+<img src="https://raw.githubusercontent.com/yxx1912008/vbox_disk/main/img/0.jpg" style="width: 50%; height: 50%"  alt="软件图标" />
 
 2.点击磁盘列表 加载系统磁盘
-<img src="2.jpg" style="width: 50%; height: 50%"  alt="加载硬盘列表" />
+<img src="https://raw.githubusercontent.com/yxx1912008/vbox_disk/main/img/2.jpg" style="width: 50%; height: 50%"  alt="加载硬盘列表" />
 
 3.选择存放路径
 4.选择磁盘名称
